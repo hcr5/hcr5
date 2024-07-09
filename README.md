@@ -2,7 +2,7 @@
 
 I'm **hcr5**. I like to script in **Python**, **JavaScript**, **HTML**, and **CSS**.
 
-I have a passion for creating efficient and innovative code. Here are some of the things I enjoy working on:
+I have a passion for writing efficient and fun code. Here are some of the things I enjoy working on:
 
 - **Web Development:** Building responsive and dynamic websites.
 - **Automation:** Writing scripts to automate repetitive tasks.
