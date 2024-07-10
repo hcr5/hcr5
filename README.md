@@ -12,4 +12,4 @@ In my free time, I like to:
 
 - Explore new programming languages and technologies.
 - Produce various styles of music.
-- Play video games.
+- Design logo's and UIs.
