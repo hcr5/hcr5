@@ -3,8 +3,8 @@
 I'm **hcr5**. I code in **Python**, **JavaScript**, **HTML**, and **CSS**.
 
 I enjoy:
-- **Web Development:** Making responsive websites.
+- **Web Development:** Creating websites.
 - **Automation:** Writing time-saving scripts.
 - **Web Scraping:** Extracting data with Python.
-- **Music production:** Creating synthwave songs.
-- **Design:** Designing logo's and UI's
+- **Music Production:** Creating synthwave songs.
+- **Design:** Designing logos and UIs.
