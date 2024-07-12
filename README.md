@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm **hcr5**. I code in [**Python**](https://cdn3.emoji.gg/emojis/1349-python.png), **JavaScript**, **HTML**, and **CSS**.
+I'm **hcr5**. I code in ![**Python**](https://cdn3.emoji.gg/emojis/1349-python.png), **JavaScript**, **HTML**, and **CSS**.
 
 I enjoy:
 
