@@ -7,9 +7,5 @@ I enjoy:
 - **Web Development:** Making responsive websites.
 - **Automation:** Writing time-saving scripts.
 - **Web Scraping:** Extracting data with Python.
-
-In my free time, I:
-
-- Learn new programming languages.
-- Make music.
-- Design logos and UIs.
+- **Music production:** Creating synthwave songs.
+- **Design:** Designing logo's and UI's
