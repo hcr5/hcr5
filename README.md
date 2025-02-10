@@ -1,11 +1,12 @@
-## Welcome!
+## hi!
 
 ![](https://komarev.com/ghpvc/?username=hcr5)
 
-I'm **hcr5**. I code in **Python**, **JavaScript**. I also use **CSS** and **HTML**, but these aren't programming languages.
+i'm hcr5, i do reverse engineering, web scraping, and design.
 
-I enjoy:
-- **Web Development:** Creating websites.
-- **Automation:** Writing time-saving scripts.
-- **Web Scraping:** Extracting data with Python.
-- **Design:** Designing logos and UIs.
+### things i use:
+- python
+- js
+- rust
+- scapy
+- mitmproxy
