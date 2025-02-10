@@ -1,9 +1,9 @@
-## hi!
+## Hi!  
 
-![](https://komarev.com/ghpvc/?username=hcr5)
+![](https://komarev.com/ghpvc/?username=hcr5)  
 
-i'm hcr5, i do reverse engineering, web scraping, and design.
+I'm hcr5, I do reverse engineering, web scraping, and design.  
 
-### things i use:
-- **languages**: python, js, rust
-- **tools**: scapy, mitmproxy, ZAP
+### Things I Use:  
+- **Languages**: Python, JS, Rust  
+- **Tools**: Scapy, Mitmproxy, ZAP  
